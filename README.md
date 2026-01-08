@@ -74,7 +74,7 @@ Each signal contributes to a weighted final score.
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-streamlit run app.py
+python app.py
 ```
 
 ------------------------------------------------------------------------
